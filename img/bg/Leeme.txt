@@ -1,0 +1,8 @@
+Nombres de las imagenes de la plantilla
+
+1920x1280
+masthead.jpg
+prices.jpg
+
+1920x1080
+video-section.jpg
